@@ -1,0 +1,31 @@
+.banner{
+  background-image: url(../../images/my_background.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  opacity: .9;
+}
+
+h1 {
+  color: black;
+}
+
+ p {
+  color: white;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.btn_first {
+  display: inline-block;
+  background-color: olivedrab;
+  color: white;
+  font-weight: bolder;
+  padding: 16px 36px;
+  border-radius: 20px;
+}
+
+.btn_first:hover {
+  background-color: rgb(169, 214, 77);
+  color: rgb(1, 1, 1);
+}

@@ -1,0 +1,25 @@
+.footer {
+  background-color: blanchedalmond;
+  width: 1455px;
+  margin: auto;
+  text-align: center;
+  padding: 30px;
+}
+
+.footer p {
+  color: darkgrey
+}
+
+.footer a {
+  font-size: 30px;
+  color: black;
+}
+
+.footer a:hover{
+  color: darkgray;
+}
+
+.fa-brands {
+  text-align: center;
+  width: 100px;
+}
